@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Prompt para Sites com IA",
+  "description": "Uma aplicação que recebe um nicho e um cliente-alvo para gerar um prompt detalhado para um construtor de sites com IA.",
+  "requestFramePermissions": []
+}
